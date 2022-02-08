@@ -88,7 +88,7 @@ traitlets==4.3.2
 Twisted==18.7.0
 txaio==18.8.1
 uritemplate==3.0.0
-urllib3==1.23
+urllib3==1.26.5
 wcwidth==0.1.7
 Werkzeug==0.15.3
 whitenoise==4.0
