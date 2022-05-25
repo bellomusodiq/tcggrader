@@ -66,7 +66,7 @@ ptyprocess==0.5.2
 pycparser==2.18
 Pygments==2.7.4
 PyHamcrest==1.9.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 pyparsing==2.2.0
 python-axolotl==0.1.42
 python-axolotl-curve25519==0.4.1.post2
